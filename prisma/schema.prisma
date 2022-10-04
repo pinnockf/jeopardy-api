@@ -1,0 +1,34 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Season {
+  id        String    @id
+  title     String
+  startDate DateTime  @map(name: "start_date")
+  endDate   DateTime  @map(name: "end_date")
+  episodes  Episode[]
+
+  @@map(name: "seasons")
+}
+
+model Episode {
+  id          String
+  title       String
+  airDate     DateTime @map(name: "air_date")
+  contestants String[]
+  notes       String
+  season      Season   @relation(fields: [seasonId], references: [id])
+  seasonId    String   @map(name: "season_id")
+
+  @@id([seasonId, id])
+  @@map(name: "episodes")
+}

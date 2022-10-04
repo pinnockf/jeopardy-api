@@ -1,0 +1,338 @@
+[
+    {
+        "dates": "2022-02-08 to 2022-02-22",
+        "id": "ncc",
+        "title": "Jeopardy! National College Championship",
+        "startDate": "2022-02-08",
+        "endDate": "2022-02-22",
+        "url": "https://j-archive.com/showseason.php?season=ncc"
+    },
+    {
+        "dates": "2021-09-13 to 2022-07-29",
+        "id": "38",
+        "title": "Season 38",
+        "startDate": "2021-09-13",
+        "endDate": "2022-07-29",
+        "url": "https://j-archive.com/showseason.php?season=38"
+    },
+    {
+        "dates": "2020-09-14 to 2021-08-13",
+        "id": "37",
+        "title": "Season 37",
+        "startDate": "2020-09-14",
+        "endDate": "2021-08-13",
+        "url": "https://j-archive.com/showseason.php?season=37"
+    },
+    {
+        "dates": "2020-01-07 to 2020-01-14",
+        "id": "goattournament",
+        "title": "Jeopardy!: The Greatest of All Time",
+        "startDate": "2020-01-07",
+        "endDate": "2020-01-14",
+        "url": "https://j-archive.com/showseason.php?season=goattournament"
+    },
+    {
+        "dates": "2019-09-09 to 2020-06-12",
+        "id": "36",
+        "title": "Season 36",
+        "startDate": "2019-09-09",
+        "endDate": "2020-06-12",
+        "url": "https://j-archive.com/showseason.php?season=36"
+    },
+    {
+        "dates": "2018-09-10 to 2019-07-26",
+        "id": "35",
+        "title": "Season 35",
+        "startDate": "2018-09-10",
+        "endDate": "2019-07-26",
+        "url": "https://j-archive.com/showseason.php?season=35"
+    },
+    {
+        "dates": "2017-09-11 to 2018-07-27",
+        "id": "34",
+        "title": "Season 34",
+        "startDate": "2017-09-11",
+        "endDate": "2018-07-27",
+        "url": "https://j-archive.com/showseason.php?season=34"
+    },
+    {
+        "dates": "2016-09-12 to 2017-07-28",
+        "id": "33",
+        "title": "Season 33",
+        "startDate": "2016-09-12",
+        "endDate": "2017-07-28",
+        "url": "https://j-archive.com/showseason.php?season=33"
+    },
+    {
+        "dates": "2015-09-14 to 2016-07-29",
+        "id": "32",
+        "title": "Season 32",
+        "startDate": "2015-09-14",
+        "endDate": "2016-07-29",
+        "url": "https://j-archive.com/showseason.php?season=32"
+    },
+    {
+        "dates": "2014-09-15 to 2015-07-31",
+        "id": "31",
+        "title": "Season 31",
+        "startDate": "2014-09-15",
+        "endDate": "2015-07-31",
+        "url": "https://j-archive.com/showseason.php?season=31"
+    },
+    {
+        "dates": "2013-09-16 to 2014-08-01",
+        "id": "30",
+        "title": "Season 30",
+        "startDate": "2013-09-16",
+        "endDate": "2014-08-01",
+        "url": "https://j-archive.com/showseason.php?season=30"
+    },
+    {
+        "dates": "2012-09-17 to 2013-08-02",
+        "id": "29",
+        "title": "Season 29",
+        "startDate": "2012-09-17",
+        "endDate": "2013-08-02",
+        "url": "https://j-archive.com/showseason.php?season=29"
+    },
+    {
+        "dates": "2011-09-19 to 2012-08-03",
+        "id": "28",
+        "title": "Season 28",
+        "startDate": "2011-09-19",
+        "endDate": "2012-08-03",
+        "url": "https://j-archive.com/showseason.php?season=28"
+    },
+    {
+        "dates": "2010-09-13 to 2011-07-29",
+        "id": "27",
+        "title": "Season 27",
+        "startDate": "2010-09-13",
+        "endDate": "2011-07-29",
+        "url": "https://j-archive.com/showseason.php?season=27"
+    },
+    {
+        "dates": "2009-09-14 to 2010-07-30",
+        "id": "26",
+        "title": "Season 26",
+        "startDate": "2009-09-14",
+        "endDate": "2010-07-30",
+        "url": "https://j-archive.com/showseason.php?season=26"
+    },
+    {
+        "dates": "2008-09-08 to 2009-07-24",
+        "id": "25",
+        "title": "Season 25",
+        "startDate": "2008-09-08",
+        "endDate": "2009-07-24",
+        "url": "https://j-archive.com/showseason.php?season=25"
+    },
+    {
+        "dates": "2007-09-10 to 2008-07-25",
+        "id": "24",
+        "title": "Season 24",
+        "startDate": "2007-09-10",
+        "endDate": "2008-07-25",
+        "url": "https://j-archive.com/showseason.php?season=24"
+    },
+    {
+        "dates": "2006-09-11 to 2007-07-27",
+        "id": "23",
+        "title": "Season 23",
+        "startDate": "2006-09-11",
+        "endDate": "2007-07-27",
+        "url": "https://j-archive.com/showseason.php?season=23"
+    },
+    {
+        "dates": "2005-09-12 to 2006-07-28",
+        "id": "22",
+        "title": "Season 22",
+        "startDate": "2005-09-12",
+        "endDate": "2006-07-28",
+        "url": "https://j-archive.com/showseason.php?season=22"
+    },
+    {
+        "dates": "2004-09-06 to 2005-07-22",
+        "id": "21",
+        "title": "Season 21",
+        "startDate": "2004-09-06",
+        "endDate": "2005-07-22",
+        "url": "https://j-archive.com/showseason.php?season=21"
+    },
+    {
+        "dates": "2003-09-08 to 2004-07-23",
+        "id": "20",
+        "title": "Season 20",
+        "startDate": "2003-09-08",
+        "endDate": "2004-07-23",
+        "url": "https://j-archive.com/showseason.php?season=20"
+    },
+    {
+        "dates": "2002-09-02 to 2003-07-18",
+        "id": "19",
+        "title": "Season 19",
+        "startDate": "2002-09-02",
+        "endDate": "2003-07-18",
+        "url": "https://j-archive.com/showseason.php?season=19"
+    },
+    {
+        "dates": "2001-09-03 to 2002-07-19",
+        "id": "18",
+        "title": "Season 18",
+        "startDate": "2001-09-03",
+        "endDate": "2002-07-19",
+        "url": "https://j-archive.com/showseason.php?season=18"
+    },
+    {
+        "dates": "2000-09-04 to 2001-07-20",
+        "id": "17",
+        "title": "Season 17",
+        "startDate": "2000-09-04",
+        "endDate": "2001-07-20",
+        "url": "https://j-archive.com/showseason.php?season=17"
+    },
+    {
+        "dates": "1999-09-06 to 2000-07-21",
+        "id": "16",
+        "title": "Season 16",
+        "startDate": "1999-09-06",
+        "endDate": "2000-07-21",
+        "url": "https://j-archive.com/showseason.php?season=16"
+    },
+    {
+        "dates": "1998-09-07 to 1999-07-23",
+        "id": "15",
+        "title": "Season 15",
+        "startDate": "1998-09-07",
+        "endDate": "1999-07-23",
+        "url": "https://j-archive.com/showseason.php?season=15"
+    },
+    {
+        "dates": "1997-09-01 to 1998-07-17",
+        "id": "14",
+        "title": "Season 14",
+        "startDate": "1997-09-01",
+        "endDate": "1998-07-17",
+        "url": "https://j-archive.com/showseason.php?season=14"
+    },
+    {
+        "dates": "1996-09-02 to 1997-07-18",
+        "id": "13",
+        "title": "Season 13",
+        "startDate": "1996-09-02",
+        "endDate": "1997-07-18",
+        "url": "https://j-archive.com/showseason.php?season=13"
+    },
+    {
+        "dates": "1995-09-04 to 1996-07-19",
+        "id": "12",
+        "title": "Season 12",
+        "startDate": "1995-09-04",
+        "endDate": "1996-07-19",
+        "url": "https://j-archive.com/showseason.php?season=12"
+    },
+    {
+        "dates": "1994-09-05 to 1995-07-21",
+        "id": "11",
+        "title": "Season 11",
+        "startDate": "1994-09-05",
+        "endDate": "1995-07-21",
+        "url": "https://j-archive.com/showseason.php?season=11"
+    },
+    {
+        "dates": "1993-09-06 to 1994-07-22",
+        "id": "10",
+        "title": "Season 10",
+        "startDate": "1993-09-06",
+        "endDate": "1994-07-22",
+        "url": "https://j-archive.com/showseason.php?season=10"
+    },
+    {
+        "dates": "1992-09-07 to 1993-07-23",
+        "id": "9",
+        "title": "Season 9",
+        "startDate": "1992-09-07",
+        "endDate": "1993-07-23",
+        "url": "https://j-archive.com/showseason.php?season=9"
+    },
+    {
+        "dates": "1991-09-02 to 1992-07-17",
+        "id": "8",
+        "title": "Season 8",
+        "startDate": "1991-09-02",
+        "endDate": "1992-07-17",
+        "url": "https://j-archive.com/showseason.php?season=8"
+    },
+    {
+        "dates": "1990-09-03 to 1991-07-19",
+        "id": "7",
+        "title": "Season 7",
+        "startDate": "1990-09-03",
+        "endDate": "1991-07-19",
+        "url": "https://j-archive.com/showseason.php?season=7"
+    },
+    {
+        "dates": "1990-06-16 to 1990-09-08",
+        "id": "superjeopardy",
+        "title": "Super Jeopardy!",
+        "startDate": "1990-06-16",
+        "endDate": "1990-09-08",
+        "url": "https://j-archive.com/showseason.php?season=superjeopardy"
+    },
+    {
+        "dates": "1989-09-04 to 1990-07-20",
+        "id": "6",
+        "title": "Season 6",
+        "startDate": "1989-09-04",
+        "endDate": "1990-07-20",
+        "url": "https://j-archive.com/showseason.php?season=6"
+    },
+    {
+        "dates": "1988-09-05 to 1989-07-21",
+        "id": "5",
+        "title": "Season 5",
+        "startDate": "1988-09-05",
+        "endDate": "1989-07-21",
+        "url": "https://j-archive.com/showseason.php?season=5"
+    },
+    {
+        "dates": "1987-09-07 to 1988-07-22",
+        "id": "4",
+        "title": "Season 4",
+        "startDate": "1987-09-07",
+        "endDate": "1988-07-22",
+        "url": "https://j-archive.com/showseason.php?season=4"
+    },
+    {
+        "dates": "1986-09-08 to 1987-07-24",
+        "id": "3",
+        "title": "Season 3",
+        "startDate": "1986-09-08",
+        "endDate": "1987-07-24",
+        "url": "https://j-archive.com/showseason.php?season=3"
+    },
+    {
+        "dates": "1985-09-09 to 1986-06-06",
+        "id": "2",
+        "title": "Season 2",
+        "startDate": "1985-09-09",
+        "endDate": "1986-06-06",
+        "url": "https://j-archive.com/showseason.php?season=2"
+    },
+    {
+        "dates": "1984-09-10 to 1985-06-07",
+        "id": "1",
+        "title": "Season 1",
+        "startDate": "1984-09-10",
+        "endDate": "1985-06-07",
+        "url": "https://j-archive.com/showseason.php?season=1"
+    },
+    {
+        "dates": "1983-09-18 and 1984?",
+        "id": "trebekpilots",
+        "title": "Trebek pilots",
+        "startDate": "1983-09-18",
+        "endDate": "1984",
+        "url": "https://j-archive.com/showseason.php?season=trebekpilots"
+    }
+]
