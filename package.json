@@ -7,7 +7,6 @@
     "build": "next build",
     "start": "next start",
     "seed": "npx ts-node prisma/seed.ts"
-
   },
   "keywords": [],
   "author": "",
@@ -20,6 +19,7 @@
     "react-markdown": "8.0.0"
   },
   "devDependencies": {
+    "@playwright/test": "^1.26.1",
     "@types/node": "17.0.14",
     "@types/react": "17.0.38",
     "prisma": "^4.4.0",
