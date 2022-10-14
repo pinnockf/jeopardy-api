@@ -26,9 +26,37 @@ model Episode {
   airDate     DateTime @map(name: "air_date")
   contestants String[]
   notes       String
-  season      Season   @relation(fields: [seasonId], references: [id])
-  seasonId    String   @map(name: "season_id")
+
+  season   Season @relation(fields: [seasonId], references: [id])
+  seasonId String @map(name: "season_id")
+  games    Game[]
+  clues    Clue[]
 
   @@id([seasonId, id])
   @@map(name: "episodes")
+}
+
+model Game {
+  categories String[]
+  episode    Episode  @relation(fields: [seasonId, episodeId], references: [seasonId, id])
+  seasonId   String   @map(name: "season_id")
+  episodeId  String   @map(name: "episode_id")
+
+  @@id([seasonId, episodeId])
+  @@map(name: "games")
+}
+
+model Clue {
+  prompt        String
+  answer        String
+  category      String
+  value         String
+  isDailyDouble Boolean @map(name: "is_daily_double")
+
+  episode   Episode @relation(fields: [seasonId, episodeId], references: [seasonId, id])
+  seasonId  String  @map(name: "season_id")
+  episodeId String  @map(name: "episode_id")
+
+  @@id([prompt, answer])
+  @@map(name: "clues")
 }

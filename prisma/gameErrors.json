@@ -1,0 +1,145 @@
+[
+    {
+        "seasonId": "35",
+        "episodeId": "7937",
+        "title": "#7937, aired 2019-02-26",
+        "airDate": "2019-02-26",
+        "contestants": [
+            "Team Ken",
+            "Team Austin",
+            "Team Julia"
+        ],
+        "notes": "2019 All-Star Games match 2, continuation of game 1.",
+        "url": "https://j-archive.com/showgame.php?game_id=6227"
+    },
+    {
+        "seasonId": "35",
+        "episodeId": "7934",
+        "title": "#7934, aired 2019-02-21",
+        "airDate": "2019-02-21",
+        "contestants": [
+            "Team Buzzy",
+            "Team Colby",
+            "Team Brad"
+        ],
+        "notes": "2019 All-Star Games match 1, continuation of game 1.",
+        "url": "https://j-archive.com/showgame.php?game_id=6224"
+    },
+    {
+        "seasonId": "27",
+        "episodeId": "6087",
+        "title": "#6087, aired 2011-02-15",
+        "airDate": "2011-02-15",
+        "contestants": [
+            "Ken Jennings",
+            "Watson",
+            "Brad Rutter"
+        ],
+        "notes": "The IBM Challenge, continuation of game 1.",
+        "url": "https://j-archive.com/showgame.php?game_id=3576"
+    },
+    {
+        "seasonId": "25",
+        "episodeId": "5523",
+        "title": "#5523, aired 2008-09-17",
+        "airDate": "2008-09-17",
+        "contestants": [
+            "Curtis Joseph",
+            "Kendra Pettis",
+            "Anjali Tripathi"
+        ],
+        "notes": "2008 Kids Week Reunion game 3.",
+        "url": "https://j-archive.com/showgame.php?game_id=2681"
+    },
+    {
+        "seasonId": "12",
+        "episodeId": "2660",
+        "title": "#2660, aired 1996-03-08",
+        "airDate": "1996-03-08",
+        "contestants": [
+            "Carolyn Christian",
+            "Andrew Burtle",
+            "Kevin Shultz"
+        ],
+        "notes": "Player introductions only.  Missing clues from all three rounds.",
+        "url": "https://j-archive.com/showgame.php?game_id=1153"
+    },
+    {
+        "seasonId": "11",
+        "episodeId": "2430",
+        "title": "#2430, aired 1995-03-10",
+        "airDate": "1995-03-10",
+        "contestants": [
+            "Jerry Clarke",
+            "Mike Baxter",
+            "Gord Brown"
+        ],
+        "notes": "",
+        "url": "https://j-archive.com/showgame.php?game_id=7000"
+    },
+    {
+        "seasonId": "10",
+        "episodeId": "2106",
+        "title": "#2106, aired 1993-11-01",
+        "airDate": "1993-11-01",
+        "contestants": [
+            "Steven McKenna",
+            "Peter Gay",
+            "Matt Giers"
+        ],
+        "notes": "Drawing for Season 1 & Season 2 players for the...",
+        "url": "https://j-archive.com/showgame.php?game_id=1133"
+    },
+    {
+        "seasonId": "7",
+        "episodeId": "1589",
+        "title": "#1589, aired 1991-06-27",
+        "airDate": "1991-06-27",
+        "contestants": [
+            "Fred Andrus",
+            "Maggie Walker",
+            "Mark Wasley"
+        ],
+        "notes": "Player introductions only.  Missing clues from all three rounds.",
+        "url": "https://j-archive.com/showgame.php?game_id=1134"
+    },
+    {
+        "seasonId": "5",
+        "episodeId": "1126",
+        "title": "#1126, aired 1989-06-26",
+        "airDate": "1989-06-26",
+        "contestants": [
+            "Bob Boyd",
+            "Jeff Kohlberg",
+            "Julie Dock"
+        ],
+        "notes": "Player introductions only.  Missing clues from all three rounds.",
+        "url": "https://j-archive.com/showgame.php?game_id=1135"
+    },
+    {
+        "seasonId": "4",
+        "episodeId": "781",
+        "title": "#781, aired 1988-01-18",
+        "airDate": "1988-01-18",
+        "contestants": [
+            "Bob Bearse",
+            "Jonathan Santore",
+            "Jake Edelman"
+        ],
+        "notes": "Player introductions only.  Missing clues from all three rounds.",
+        "url": "https://j-archive.com/showgame.php?game_id=1132"
+    },
+    {
+        "seasonId": "2",
+        "episodeId": "366",
+        "title": "#366, aired 1986-02-03",
+        "airDate": "1986-02-03",
+        "contestants": [
+            "Garth Sturdevant",
+            "David Whitehorse",
+            "Dorothy Williams"
+        ],
+        "notes": "Player introductions only.  Missing clues from all three rounds.",
+        "url": "https://j-archive.com/showgame.php?game_id=4284"
+    }
+]
